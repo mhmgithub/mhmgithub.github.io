@@ -13704,6 +13704,6 @@ html {
         margin: 0 .563rem 0 0
     }
 }
-.ginbo-navbar .logo-section .logo-title img{
+.logo-title.navbar-brand img{
         height: 28px;
 }
